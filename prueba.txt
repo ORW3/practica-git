@@ -1,2 +1,5 @@
--e "Hola, soy un renglon 1 \n Hola, soy un renglon 2 \n Hola, soy un renglon 3 \n Hola, soy un renglon 4 \n Hola, soy un renglon 5" 
--e "Hola, soy un renglon 6 \n Hola, soy un renglon 7 \n Hola, soy un renglon 8" 
+Hola, soy un renglon 1  
+Hola, soy un renglon 2 
+Hola, soy un renglon 3 
+Hola, soy un renglon 4 
+Hola, soy un renglon 5 
